@@ -995,7 +995,3 @@ vendor/lib64/libmmosal.so|c21735de83eecb9f869ab6268c84f4284428cb35
 vendor/lib64/libwfddisplayconfig_proprietary.so|fb6a6c36346a30662d0f79bb8a8656e32cc2e75d
 vendor/lib64/libwfdhdcpcp.so|af856708b2ab67e08f76fd5a746028a448991150
 vendor/lib64/vendor.qti.hardware.wifidisplaysession@1.0.so|86b6ce7b14bcc8f6ab3215962aab694404c27d14
-
-# libbeluga
-system_ext/lib/libbeluga.so|476b76af5190f5a88b71e217a54513abd0a0580f
-system_ext/lib64/libbeluga.so|323cadc5067d5b4641286d584aa30ac3a24cedbb
