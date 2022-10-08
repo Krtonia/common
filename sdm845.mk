@@ -232,7 +232,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.software.freeform_window_management.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.software.freeform_window_management.xml
 
-
 # fastbootd
 PRODUCT_PACKAGES += \
     fastbootd
@@ -275,10 +274,6 @@ PRODUCT_PACKAGES += \
 
 # PRODUCT_BOOT_JARS += \
 #    org.ifaa.android.manager
-
-# IMS
-PRODUCT_PACKAGES += \
-    libavservices_minijail.vendor
 
 # Input
 PRODUCT_COPY_FILES += \
