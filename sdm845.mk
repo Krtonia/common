@@ -132,6 +132,7 @@ PRODUCT_PACKAGES += \
     libldacBT_enc \
     libldacBT_dec \
     libldacBT_abr \
+    libldacBT_bco \
     vendor.qti.hardware.bluetooth_audio@2.0.vendor \
     vendor.qti.hardware.btconfigstore@1.0.vendor
 
