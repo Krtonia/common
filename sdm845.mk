@@ -549,8 +549,6 @@ PRODUCT_PACKAGES += \
 # PRODUCT_BOOT_JARS += \
 #    WfdCommon
 
-include vendor/xiaomi/sdm845-common-extra/wfd.mk
-
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/wfdconfig.xml:$(TARGET_COPY_OUT_VENDOR)/etc/wfdconfig.xml
     
