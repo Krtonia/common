@@ -447,6 +447,8 @@ PRODUCT_SYSTEM_SERVER_COMPILER_FILTER := speed-profile
 PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     hardware/xiaomi \
+    hardware/google/interfaces \
+    hardware/google/pixel \
     vendor/qcom/opensource/usb/etc
 
 # Telephony
